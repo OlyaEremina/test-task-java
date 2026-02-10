@@ -1,0 +1,12 @@
+String: Lorem ipsum dolor sit amet
+Int:45
+String: Пример
+Float: 3.1415
+String: consectetur adipiscing 
+Float: -0.001
+String: тестовое задание 
+Int:100500
+String: Нормальная форма числа с плавающей запятой 
+Float: 1.528535047E-25
+String: Long 
+Int:1234567890123456789
